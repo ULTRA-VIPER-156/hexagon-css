@@ -1,13 +1,13 @@
 body{
     background: black;
-    min-height: 100vh;
+    min-height: 45vh;
     overflow: hidden;
 }
 .wrapper{
    position: relative;
-   min-height: 100vh;
+   min-height: 45vh;
    overflow: hidden;
-   animation: animate 10s linear infinite;
+   animation: animate 15s linear infinite;
 }
 @keyframes animate{
     0%{
